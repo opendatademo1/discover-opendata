@@ -10,7 +10,7 @@ http://opendatademo1.github.io/discover-opendata/test.html
 
 #Spending And Revenue data 
 
-Used: D3 JS
+Used: D3 JS, vis.js
 sfopendata: https://dev.socrata.com/foundry/data.sfgov.org/q8w3-rsdh
 
 Data Visualised
