@@ -34,6 +34,8 @@
     }
 </style>
 <label>
+    
+    <h1>Spending And Revenue</h1>
     <input type="checkbox"> Sort values</label>
 <script src="//d3js.org/d3.v3.min.js"></script>
 <script>
@@ -95,7 +97,7 @@
             .attr("y", 6)
             .attr("dy", ".71em")
             .style("text-anchor", "end")
-            .text("Frequency");
+            .text("Amount Spent");
 
         svg.selectAll(".bar")
             .data(data)
