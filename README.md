@@ -1,6 +1,12 @@
 # discover-opendata
 
-checkthis: http://sravanthisinha.github.io/discover-opendata/test.html
+checkthis:
+
+
+http://opendatademo1.github.io/discover-opendata/3d.html
+
+
+http://opendatademo1.github.io/discover-opendata/test.html
 
 #Spending And Revenue data 
 
